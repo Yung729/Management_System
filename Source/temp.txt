@@ -1,0 +1,40 @@
+I0001,293847,PQR Corporation,White Sneakers,29,49.99,89.99
+I0002,8293627,ABC Company,Red Backpack,35,29.99,59.99
+I0003,8492103,XYZ Corporation,Green Scarf,41,9.99,17.99
+I0004,9473012,DEF Suppliers,Black Sneakers,58,44.99,79.99
+I0005,9823740,DEF Suppliers,Purple Jacket,23,59.99,109.99
+I0006,2947102,XYZ Corporation,Red Sweatpants,33,16.99,29.99
+I0007,3947102,DEF Suppliers,Yellow Polo Shirt,17,22.50,39.99
+I0008,293847,ABC Company,Black Dress Shoes,5,64.99,119.99
+I0009,7394710,JKL Industries,Blue Polo Shirt,16,19.99,36.99
+I0010,5837431513510,JKL Industries,Blue Jeans,12,28.99,49.99
+I0011,2983471,PQR Corporation,Gray Shorts,61,14.99,27.99
+I0012,9328740,JKL Industries,Orange Hoodie,8,29.99,54.99
+I0013,9432847,ABC Company,Gray T-Shirt,41,12.99,24.99
+I0014,3847102,XYZ Corporation,Green Hoodie,22,18.50,34.99
+I0015,1092837,ABC Company,Black Leather Belt,7,24.99,44.99
+I0016,436353,Tan,TOWEL,60,4.00,5.20
+I0017,893746125,ABC Company,Red Apples,63,1.75,3.00
+I0018,673891245,Smith & Sons,Pears,28,2.00,3.50
+I0019,239148765,Johnson Inc.,Bananas,47,1.25,2.50
+I0020,471396285,Acme Inc.,Cucumbers,54,0.75,1.50
+I0021,981237465,XYZ Corporation,Red Bell Peppers,22,2.50,4.50
+I0022,129876345,ABC Company,Cherries,18,3.50,5.50
+I0023,897346521,Smith & Sons,Strawberries,39,4.00,6.50
+I0024,612837495,Johnson Inc.,Spinach,26,1.00,2.00
+I0025,468123957,Acme Inc.,Sweet Potatoes,15,2.25,3.75
+I0026,238976514,XYZ Corporation,Green Beans,31,1.50,2.75
+I0027,719384625,ABC Company,Asparagus,29,3.25,5.00
+I0028,891234657,Smith & Sons,Gala Apples,43,2.25,3.75
+I0029,612983745,Johnson Inc.,Cantaloupe,20,3.00,5.00
+I0030,239148657,Acme Inc.,Honeydew Melon,16,5.00,8.50
+I0031,681239745,XYZ Corporation,Red Onion,38,1.25,2.50
+I0032,192837465,ABC Company,Green Onion,41,0.50,1.00
+I0033,473829516,Smith & Sons,Brussels Sprouts,29,2.75,4.50
+I0034,981237465,Johnson Inc.,Butternut Squash,17,3.25,5.50
+I0035,781923456,Acme Inc.,Pumpkin,11,6.50,10.50
+I0036,612983745,XYZ Corporation,Cauliflower,24,2.00,3.50
+I0037,897346521,ABC Company,Roma Tomatoes,37,1.75,3.00
+I0038,219837465,Smith & Sons,Green Bell Peppers,52,1.50,2.75
+I0039,319274856,Johnson Inc.,Garlic,18,0.75,1.50
+I0040,481927365,Acme Inc.,Ginger,26,1.25,2.50
